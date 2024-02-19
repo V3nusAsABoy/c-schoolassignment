@@ -1,0 +1,15 @@
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.csproj.AssemblyReference.cache
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.AssemblyInfoInputs.cache
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.AssemblyInfo.cs
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.csproj.CoreCompileInputs.cache
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/bin/Debug/net7.0/cois2020assignment1
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/bin/Debug/net7.0/cois2020assignment1.deps.json
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/bin/Debug/net7.0/cois2020assignment1.runtimeconfig.json
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/bin/Debug/net7.0/cois2020assignment1.dll
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/bin/Debug/net7.0/cois2020assignment1.pdb
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.dll
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/refint/cois2020assignment1.dll
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.pdb
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/cois2020assignment1.genruntimeconfig.cache
+/Users/andrewabdulaziz2/Projects/cois2020assignment1/cois2020assignment1/obj/Debug/net7.0/ref/cois2020assignment1.dll

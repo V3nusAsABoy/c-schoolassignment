@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cois2020assignment1/1.0.0": {
+        "runtime": {
+          "cois2020assignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cois2020assignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
